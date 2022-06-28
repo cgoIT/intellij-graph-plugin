@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cgoit.intellijgraphplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cgoit.intellijgraphplugin.MyBundle
 
 class MyApplicationService {
 
